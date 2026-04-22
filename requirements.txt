@@ -1,0 +1,4 @@
+PyQt6>=6.6
+openpyxl>=3.1
+pyinstaller>=6.0
+
